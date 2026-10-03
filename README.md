@@ -3,21 +3,21 @@
 ## VOIS TIRTC Data Analytics Project
 
 **Domain:** Healthcare & Medical Analytics  
-**Project Theme:** Healthcare Utilization and Doctor Visits Performance Analysis[cite: 3]  
+**Project Theme:** Healthcare Utilization and Doctor Visits Performance Analysis  
 **Author:** Pragya Srivastava (STU68639e54e89091751359060)  
 
 ---
 
 ## Project Overview
-This repository contains a comprehensive data analytics project focused on analyzing healthcare utilization patterns based on individual doctor visits, health status, illness indicators, and socioeconomic variables[cite: 3]. The objective is to uncover underlying trends, examine patient demographics, and evaluate how factors like illness scores, age, income, and insurance coverage impact healthcare access and doctor visit frequencies.
+This repository contains a comprehensive data analytics project focused on analyzing healthcare utilization patterns based on individual doctor visits, health status, illness indicators, and socioeconomic variables. The objective is to uncover underlying trends, examine patient demographics, and evaluate how factors like illness scores, age, income, and insurance coverage impact healthcare access and doctor visit frequencies.
 
 ---
 
 ## Dataset Details
-* **Source:** Healthcare Analytics for Doctor Visits Dataset[cite: 3]
-* **Description:** Contains records of individual health status, number of illnesses, restricted activity days, doctor visit frequencies, and socioeconomic factors[cite: 3].
-* **Size:** 5,190 records with 13 variables[cite: 3].
-* **Key Features:** `visits`, `gender`, `age`, `income`, `illness`, `reduced`, `health`, `private`, `freepoor`, `freerepat`, `nchronic`, and `lchronic`[cite: 3].
+* **Source:** Healthcare Analytics for Doctor Visits Dataset
+* **Description:** Contains records of individual health status, number of illnesses, restricted activity days, doctor visit frequencies, and socioeconomic factors.
+* **Size:** 5,190 records with 13 variables.
+* **Key Features:** `visits`, `gender`, `age`, `income`, `illness`, `reduced`, `health`, `private`, `freepoor`, `freerepat`, `nchronic`, and `lchronic`.
 
 ---
 
@@ -31,16 +31,16 @@ This repository contains a comprehensive data analytics project focused on analy
 ---
 
 ## Exploratory Data Analysis & Visualizations
-* **Univariate Analysis:** Count plots and histograms visualizing distributions for doctor visits, gender, age, and income[cite: 4, 5].
-* **Bivariate & Categorical Analysis:** Bar plots showing average doctor visits grouped by gender and non-chronic conditions[cite: 6]; line plots analyzing illness scores versus average doctor visits[cite: 7].
-* **Advanced Visualizations:** Box plots and strip plots examining income distributions relative to private health insurance and illness scores[cite: 8]; violin plots showing age distribution across doctor visits[cite: 7]; joint density plots and correlation heatmaps[cite: 7].
+* **Univariate Analysis:** Count plots and histograms visualizing distributions for doctor visits, gender, age, and income.
+* **Bivariate & Categorical Analysis:** Bar plots showing average doctor visits grouped by gender and non-chronic conditions; line plots analyzing illness scores versus average doctor visits.
+* **Advanced Visualizations:** Box plots and strip plots examining income distributions relative to private health insurance and illness scores; violin plots showing age distribution across doctor visits; joint density plots and correlation heatmaps.
 
 ---
 
 ## Conclusion
-* **Utilization Patterns:** Doctor visit distributions are heavily right-skewed, with most patients reporting few or no visits[cite: 5], though utilization rises sharply with increasing illness scores[cite: 7].
-* **Demographic Insights:** Female patients show a higher average number of doctor visits than male patients[cite: 6]. 
-* **Socioeconomic Impact:** Income levels, private health insurance status[cite: 8], and chronic conditions significantly shape healthcare utilization trends.
+* **Utilization Patterns:** Doctor visit distributions are heavily right-skewed, with most patients reporting few or no visits, though utilization rises sharply with increasing illness scores.
+* **Demographic Insights:** Female patients show a higher average number of doctor visits than male patients. 
+* **Socioeconomic Impact:** Income levels, private health insurance status, and chronic conditions significantly shape healthcare utilization trends.
 
 ---
 
